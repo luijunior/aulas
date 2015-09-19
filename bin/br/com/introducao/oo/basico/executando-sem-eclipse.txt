@@ -1,0 +1,11 @@
+1- Criar a classe
+
+public class TesteSemEclipse{
+	public static void main(String[] args) {
+		System.out.println("Ola");
+	}
+}
+
+2 - javac -cp . .\TesteSemEclipse.java
+
+3 - java TesteSemEclipse
